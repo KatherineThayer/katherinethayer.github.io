@@ -1,0 +1,14 @@
+---
+layout: post
+title: Week 4
+published: true
+---
+
+
+During week 4, we started our second programming project (Voting).  With the first two projects, there seems to be an ongoing theme of optimizing your algorithm to run as quickly as possible, whether through caching or a more clever arrangement of data structures.
+
+This made me reflect some on the occasionally conflicting principles of efficiency and simplicity when writing code.  My class projects often emphasize making code run fast, but especially after doing an internship project involving a very large code base, I can appreciate how crucial it is to make code easy to understand and maintain.  In the "real world," employees leave the company or move between teams, new employees join the group and have to be brought up to speed, and requirements change.  Making code easy to understand isn't just a nice thing you do for the benefit of your grader, programming partner, or personal sense of aesthetics (and I sure do like pretty code).  It will eventually have real impact in terms of (wo)man-hours required for a project and the correctness of the resulting code.
+
+That's why I like Professor Downing's approach of having us start by thinking about a "naive" solution to programming problems, and then optimizing later.  This approach works nicely with the advice I have received elsewhere to write a simple program that works first, and only optimize if you need to.  Now, as with any rule of thumb, I can think of times when this isn't a good idea: for example, if the project is large, the naive solution would take a long time to implement, and the optimized solution is so different from the naive solution that you cannot easily build one upon the other.  But it seems like a good starting place.
+
+On the subject of pragmatic, real-world concerns like code maintainability, my tip-of-the-week is a book my mentor at my previous internship recommended: [The Pragmatic Programmer: From Journeyman to Master](http://www.barnesandnoble.com/w/pragmatic-programmer-andrew-hunt/1100504314) by Andrew Hunt and David Thomas.  The book includes a variety of practical tips about programming, including information about how to meet the needs and deal with the limitations and challenges of programming in industry.
