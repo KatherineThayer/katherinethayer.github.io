@@ -1,0 +1,14 @@
+---
+layout: post
+title: Week 6
+published: true
+---
+
+
+During Week 6, we mostly focused on examining C++ code snippets and writing short pieces of code during class.  Apparently the in-class exercises are similar to what we will be asked to do on the exam the following week.
+
+Iterators and lambdas, two of the C++ features we have focused on this week, certainly take a little time to wrap your head around.  Unlike pointers, for instance, which quickly became familiar when I started using C, these two features are different from anything I have so far encountered in other programming languages.  Java, for example, does have an Iterator interface that allows you to iterate over a collection, but the syntax for using it is different.  (I admit that using the * operator on something that isn't actually a pointer feels pretty strange to me.)  A little Googling reveals that Java also has lambdas--what do you know!--but I don't remember being exposed to them before.
+
+Perhaps my impression of C++ is influenced by the amount of depth Professor Downing has chosen to go into in his class, but I think of C++ as being an unusually complicated but also powerful language.  For example, programmer-created references can add confusion, but also grant programmers the power to send an integer to a function by reference.  When doing recursive backtracking problems in Java, I remember having to create a one-element array to get the same effect, which always seemed kind of "gacky" as Mike Scott would say.  Nice things like this have made me especially interested in becoming proficient in the subtleties of C++.
+
+Last week, I gave a nod to a classic C++ book that was over a thousand pages long.  Reading the entirety of that book might make a nice long-term goal for the C++ enthusiast, but the book is hardly a realistic resource for a semester-long class.  Therefore, this week's tip-of-the-week is a website I have found very useful as a C++ reference: [cplusplus.com](http://www.cplusplus.com/).  The contents are divided into nice, easily-searchable snippets, but I have found the explanations to have sufficient depth for someone without extensive experience in the language.
